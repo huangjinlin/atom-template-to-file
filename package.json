@@ -1,7 +1,7 @@
 {
   "name": "template-to-file",
   "main": "./lib/template-to-file",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "a atom package use undescrore.tempalte transform template file to file when save",
   "keywords": [
     "undescrore",
