@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle template-to-file",
+        "command": "template-to-file:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "template-to-file",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "template-to-file:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

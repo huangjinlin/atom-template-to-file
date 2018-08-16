@@ -1,0 +1,19 @@
+{
+  "name": "template-to-file",
+  "main": "./lib/template-to-file",
+  "version": "0.1.0",
+  "description": "a atom package use undescrore.tempalte transform template file to file when save",
+  "keywords": [
+    "undescrore",
+    "tempalte",
+    "file"
+  ],
+  "repository": "https://github.com/huangjinlin/template-to-file.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
