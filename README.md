@@ -10,7 +10,7 @@ a atom package use undescrore.tempalte transform template file to file when save
 ## installation
 
 ``` bash
-apm install markdown-to-html
+apm install template-to-file
 ```
 ## create
 ``` bash
