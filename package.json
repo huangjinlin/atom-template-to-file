@@ -8,7 +8,7 @@
     "tempalte",
     "file"
   ],
-  "repository": "https://github.com/huangjinlin/template-to-file.git",
+  "repository": "https://github.com/huangjinlin/atom-template-to-file",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -33,7 +33,7 @@ Ctrl+L(in devtool)
 
 ``` bash
 # first time
-git tag -a v0.0.1 -m "release 0.1.0 version"
+git tag -a v0.1.0 -m "release 0.1.0 version"
 git push origin --tags
 apm publish minor
 # other time
