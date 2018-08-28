@@ -60,3 +60,7 @@ try{
 
 ## refer to
 - [atom-markdown-to-html](https://github.com/huangjinlin/atom-markdown-to-html)
+- es6
+[模板字符串](http://es6.ruanyifeng.com/#docs/string#模板字符串)
+- atom
+[snippets](https://flight-manual.atom.io/using-atom/sections/snippets/)
